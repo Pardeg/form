@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/form/static/css/main.2a3de6c5.chunk.css",
+    "main.js": "/form/static/js/main.facade78.chunk.js",
+    "main.js.map": "/form/static/js/main.facade78.chunk.js.map",
+    "runtime-main.js": "/form/static/js/runtime-main.df3d993a.js",
+    "runtime-main.js.map": "/form/static/js/runtime-main.df3d993a.js.map",
+    "static/js/2.c19d1801.chunk.js": "/form/static/js/2.c19d1801.chunk.js",
+    "static/js/2.c19d1801.chunk.js.map": "/form/static/js/2.c19d1801.chunk.js.map",
+    "index.html": "/form/index.html",
+    "precache-manifest.1f616242e28109ab1d217022826bc600.js": "/form/precache-manifest.1f616242e28109ab1d217022826bc600.js",
+    "service-worker.js": "/form/service-worker.js",
+    "static/css/main.2a3de6c5.chunk.css.map": "/form/static/css/main.2a3de6c5.chunk.css.map",
+    "static/js/2.c19d1801.chunk.js.LICENSE.txt": "/form/static/js/2.c19d1801.chunk.js.LICENSE.txt",
+    "static/media/Checkbox.svg": "/form/static/media/Checkbox.fc4db7ee.svg",
+    "static/media/Form.svg": "/form/static/media/Form.74238712.svg",
+    "static/media/App.css": "/form/static/media/OpenSans.629a55a7.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df3d993a.js",
+    "static/js/2.c19d1801.chunk.js",
+    "static/css/main.2a3de6c5.chunk.css",
+    "static/js/main.facade78.chunk.js"
+  ]
+}
