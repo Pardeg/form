@@ -1,0 +1,23 @@
+.skillsInput-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.skillsInput-leftColumn {
+    margin-top: 15px;
+}
+
+.skillsButton {
+    margin-top: 10px;
+    cursor: pointer;
+    width: 120px;
+    height: 50px;
+    border-radius: 5px;
+    box-shadow: none;
+    border: 1px solid grey;
+}
+.skillsButton:hover {
+    color: white;
+    background-color: #3497ff;
+}
