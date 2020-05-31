@@ -1,3 +1,21 @@
+.input {
+    display: flex;
+    flex-direction: column;
+    height: 40px;
+    justify-content: flex-end;
+
+}
+.input-label {
+    cursor:pointer;
+}
+
+.input-field {
+    border: 1px solid grey;
+    margin-right: 10px;
+}
+
+
+
 .skillsInput-container {
     display: flex;
     flex-direction: row;

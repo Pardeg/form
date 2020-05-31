@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import notChecked from '../../images/Form.svg';
 import checkedImage from '../../images/Checkbox.svg';
-import '../App/App.css';
+import '../app/app.css';
 import './checkbox.css';
 
 const Checkbox = (props) => {

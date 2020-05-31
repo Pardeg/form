@@ -1,16 +1,6 @@
-@font-face {
-    font-family: 'Open Sans';
-    src: url("../../fonts/OpenSans.ttf");
-}
-
-.app-container {
+.form {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    height: 1000px;
-    background-color: #eff4ff;
-    font-family: "Open Sans";
-    box-sizing: border-box;
 }
 
 .form-container {
@@ -22,23 +12,6 @@
     padding: 20px;
     margin-top: 200px;
 }
-
-.input {
-    display: flex;
-    flex-direction: column;
-    height: 40px;
-    justify-content: flex-end;
-
-}
-.input-label {
-    cursor:pointer;
-}
-
-.input-field {
-    border: 1px solid grey;
-    margin-right: 10px;
-}
-
 .submitButton-container {
     display: flex;
     justify-content: center;

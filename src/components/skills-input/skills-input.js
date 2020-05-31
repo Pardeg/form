@@ -1,7 +1,7 @@
 import React from "react";
 import {Button, Input} from "antd";
-import '../App/App.css';
-import './skillsInput.css';
+import '../app/app.css';
+import './skills-input.css';
 
 const SkillsInput = (props) => {
 const {onClick, onChange, skills}=props;
@@ -19,7 +19,7 @@ const {onClick, onChange, skills}=props;
                         onChange={onChange(idx)}
                         id={idx}
                     />
-                    Skill
+                    skill
                 </label>
             </div>
         )
